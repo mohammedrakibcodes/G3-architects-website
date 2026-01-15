@@ -225,9 +225,9 @@ width: 100px;
     .our-features{
         margin-left: 20px;
     }
-    #experience-badge{
-        margin-top: 20;
-        margin-left: 20px;
+     #experience-badge{
+        margin: 20px auto;
+        position: static;
     }
 }
 
